@@ -1,0 +1,18 @@
+# name|source|sha256|description
+colors|./colors.ath|c246c3f10a48872d747dd1b71cbf4a5544ec4835f87ae634e5cf20d580b20b89|Basic color constants for demos
+sys|./sys.ath|bab5fac11af5b3f4b966b3975077e47f77a47416098a9e33f7e9ed3ff69ad0ca|System module with runtime/process metadata and streams
+math|./math.ath|ddd1c67a356307e5a2193e707c588093ce4909775d8f08cc86d3e4efe25c4bb9|Core math functions and constants
+os|./os.ath|8e0f8831c2b8a5672550eb056e68bd75f3a0cba403646c3b50d2ef9f10609cb0|Operating system and filesystem helpers
+time|./time.ath|edcdb394e1e3978ee1b8b67305fa15b38f8ae3df40c213a9747815f15523a7b3|Time, sleep, and structured clock helpers
+random|./random.ath|d64b2026afc042c6492069da91ee2a3a63a35088bfb2c8b589c9f4e76ba6199a|Pseudo-random number utilities
+json|./json.ath|536c022b47d4d90e342167cdef977cf3bfdf3e5382c667e428c5e220cad3c65a|JSON encode/decode helpers
+agame|./agame.ath|4451f0a95aeccc17291104b6ce6d4757cd574d324bd1def992bab68c5b4f7daa|Starter 2D game API for Aether
+discord|./discord.ath|1d8d68442d783bea894af41c988d8d07e82587396b617d16321bc58a04b52170|Discord.py-inspired bot, gateway, and REST helper API for Aether
+path|./path.ath|da6cc0f3ab9e7a8bd9f5f0389024da8530cfab3b167e86e5497b601f87914e08|Path and filesystem helper utilities for Aether
+http|./http.ath|d4a6a9e36469884900c9579b6145a9a6087b05680eb2f2981f9857cd541ec2ef|HTTP client helper utilities for Aether
+builtins|./builtins.ath|6750f4f0fe60aea08b6d7e23b1abac8a7fda8611f56ca4888c78ad3cedf17a57|Built-in function aliases and input/assert helpers
+datetime|./datetime.ath|1fbe53bf62ab41fa859a53984ccbce6513d631ed0477e21232b5d1d416d32732|Datetime and clock helpers built on time module
+html|./html.ath|d060117031040f6a08de6b33b9022467a508f3731a95c6c66c0fc3fc336e757d|HTML templating, builder, and page generation helpers
+csv|./csv.ath|6c76ad8c74acd614d67ff8fc63d0dcab2bdba6e0241fe17a62d6e5349c6bc5ea|CSV parsing, generation, and dict conversion
+jsondb|./jsondb.ath|2597d4fc4601f2554aeb1f4495c071307a4164df4dd11c5b6564370cd734dcdc|JSON file-based database with find, add, update, delete
+config|./config.ath|7a9b6109465bd7967bd71eda8b82efe4e36c01993f40025f2a6b29234458b432|INI-style config file parser
